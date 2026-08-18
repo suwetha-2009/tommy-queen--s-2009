@@ -6,17 +6,19 @@
 -[ ] communication<br> 
 -[X] self-motivated<br>  
 -[ X ] quick learn
-  <br><b> table </b><br>
-  |exam|date|<br> 
-  |tam |17  |<br>
-  |eng |15  |<br>
-  |mat |34  |<br>
+  <br><b> table </b>
+  
+  |exam|date|
+  | --- | --- |
+  |tam |17  |
+  |eng |15  |
+  |mat |34  |
   <p aling=" centre">
     ertch</p> 
-  creating dropdown
+  creating dropdown<br>
   < details><br>
       < summary> this counten is hidden</summary><br>
-  -ssgt...............
-  </details> 
+  -ssgt...............<br>
+  </details> <br>
   [image]
   
