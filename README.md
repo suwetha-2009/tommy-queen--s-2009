@@ -14,8 +14,8 @@
   <p aling=" centre">
     ertch</p> 
   creating dropdown
-  < details>
-      < summary> this counten is hidden</summary>
+  < details><br>
+      < summary> this counten is hidden</summary><br>
   -ssgt...............
   </details> 
   [image]
