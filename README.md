@@ -6,6 +6,7 @@
 -[ ] communication<br> 
 -[X] self-motivated<br>  
 -[ X ] quick learn
+:fir
   <br><b> table </b>
   
   |exam|date|
@@ -17,8 +18,9 @@
     ertch</p> 
   creating dropdown<br>
   < details><br>
-      < summary> this counten is hidden</summary><br>
-  -ssgt...............<br>
-  </details> <br>
+      < summary>  click hidden</summary>
+  -ssgt...............
+  </details> 
+  <br>
   [image]
   
