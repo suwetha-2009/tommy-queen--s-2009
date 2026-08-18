@@ -17,13 +17,16 @@
   |eng |15  |
   |mat |34  |
   <p aling=" centre">
-    ertch</p> 
+    ertch</p>
+    🥰
+    😺
   creating dropdown<br>
   < details><br>
       < summary>  click hidden</summary>
   -ssgt...............
   </details> 
   <br>
-  [image](https://stockcake.com/s/moon-fairy)<br>
-  🥰
-  😼
+  [image](https://stockcake.com/s/moon-fairy)
+  
+  
+  
