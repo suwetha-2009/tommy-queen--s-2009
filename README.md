@@ -11,8 +11,10 @@
   |tam|17|<br>
   |eng|15|<br> 
   |mat|34|<br>
-  <b> creating dropdown</b><br>
+  creating dropdown
   < details>
   < summary> this counten is hidden</summary>
   -ssgt...............
+  </details> 
+  image
   
