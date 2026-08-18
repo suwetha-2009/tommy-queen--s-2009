@@ -4,10 +4,12 @@
 <p> my name is suwetha.D.I am from <del> chrompet</del> pammal. I completed my schooling at ADW highersecondary school. and i currently pursuing bachelor of science(B.SC.) in computer science with data sciences.i am studying </p>
 ####list
 
--[X] self-motivated<br>   
--[ X ] quick learn
-:fir
-  <br><b> table </b>
+- self-motivated<br>   
+- quick learn
+
+
+<br>
+  <b> table </b>
   
   |exam|date|
   | --- | --- |
