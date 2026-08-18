@@ -4,8 +4,8 @@
 <p> my name is suwetha.D.I am from <del> chrompet</del> pammal. I completed my schooling at ADW highersecondary school. and i currently pursuing bachelor of science(B.SC.) in computer science with data sciences.i am studying </p> 
 <b> strengths</b><br>
 -[ ] communication<br> 
--[X] self-motivated<br> 
-  -[ X ] quick learn
+-[X] self-motivated<br>  
+-[ X ] quick learn
   <br><b> table </b><br>
   |exam|date|<br> 
   |tam|17|<br>
@@ -13,3 +13,6 @@
   |mat|34|<br>
   <b> creating dropdown</b>
   < details>
+  < summary> this counten is hidden</summary>
+  -ssgt...............
+  
