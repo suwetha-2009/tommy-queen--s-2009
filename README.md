@@ -8,9 +8,9 @@
 -[ X ] quick learn
   <br><b> table </b><br>
   |exam|date| 
-  |tam|17|
-  |eng|15|
-  |mat|34|
+  |tam |17  |
+  |eng |15  |
+  |mat |34  |
   <p aling=" centre">
     ertch
   creating dropdown
