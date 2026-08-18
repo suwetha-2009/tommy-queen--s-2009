@@ -22,7 +22,7 @@
     😺<br>
   creating dropdown<br>
   < details><br>
-      < summary>  click hidden</summary>
+      < summary>  click hidden</summary><br>
   -ssgt...............
   </details> 
   <br>
