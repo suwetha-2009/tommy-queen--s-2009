@@ -7,12 +7,12 @@
 -[X] self-motivated<br>  
 -[ X ] quick learn
   <br><b> table </b><br>
-  |exam|date| 
-  |tam |17  |
-  |eng |15  |
-  |mat |34  |
+  |exam|date|<br> 
+  |tam |17  |<br>
+  |eng |15  |<br>
+  |mat |34  |<br>
   <p aling=" centre">
-    ertch
+    ertch</p> 
   creating dropdown
   < details>
   < summary> this counten is hidden</summary>
